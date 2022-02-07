@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCrud", "WinCrud\WinCrud.csproj", "{A8460BE9-4BD1-4279-81EF-947A61C4E466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8460BE9-4BD1-4279-81EF-947A61C4E466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8460BE9-4BD1-4279-81EF-947A61C4E466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8460BE9-4BD1-4279-81EF-947A61C4E466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8460BE9-4BD1-4279-81EF-947A61C4E466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359CA460-7A44-45DC-B5ED-A8304C8AF04E}
+	EndGlobalSection
+EndGlobal
